@@ -1,0 +1,90 @@
+.App {
+  position: relative;
+  font-size: calc(10px + 1.5vmin);
+  width: 88%;
+}
+
+.themeMode {
+  position: relative;
+  left: 110%;
+  top: 1rem;
+  cursor: pointer;
+}
+
+.lineNumbers {
+  color: #3d4d67;
+  position: absolute;
+  top: 0.5rem;
+  left: 0rem;
+}
+
+.numbers {
+  list-style: none;
+}
+
+.line-1 {
+  border-left: 2px solid #333b4c;
+  position: relative;
+  left: 6rem;
+}
+
+.line-2 {
+  border-left: 2px solid #333b4c;
+  position: relative;
+  left: 3rem;
+}
+
+.line-3 {
+  border-left: 2px solid #333b4c;
+  position: relative;
+  left: 3rem;
+  color: #71b1fe;
+}
+
+.profile {
+  position: relative;
+  left: 6rem;
+}
+
+.name {
+  color: #bf5fe3;
+  padding-left: 10px;
+  position: relative;
+  left: -1rem;
+  top: 1rem;
+}
+
+.role {
+  color: #97a7c8;
+  padding-left: 10px;
+  position: relative;
+  left: -1rem;
+}
+
+.profile-img {
+  height: 8vh;
+  width: 8vh;
+  border-radius: 50%;
+  position: relative;
+  transition: transform 0.2s;
+  left: -0.4rem;
+}
+
+.header {
+  color: #bf5fe3;
+  padding-left: 10px;
+  position: absolute;
+  left: -2.5vmin;
+  top: calc(-5px - 8vmin);
+}
+
+.profileDescription {
+  color: #71b1fe;
+  padding-left: 20px;
+  text-align: justify;
+}
+
+.profile-img:hover {
+  transform: scale(4);
+  z-index: 1;
+}
