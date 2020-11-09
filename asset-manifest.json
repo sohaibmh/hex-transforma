@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hex-transforma/static/css/main.cecc810a.chunk.css",
+    "main.js": "/hex-transforma/static/js/main.1cb6b214.chunk.js",
+    "main.js.map": "/hex-transforma/static/js/main.1cb6b214.chunk.js.map",
+    "runtime-main.js": "/hex-transforma/static/js/runtime-main.f62af61a.js",
+    "runtime-main.js.map": "/hex-transforma/static/js/runtime-main.f62af61a.js.map",
+    "static/js/2.36574700.chunk.js": "/hex-transforma/static/js/2.36574700.chunk.js",
+    "static/js/2.36574700.chunk.js.map": "/hex-transforma/static/js/2.36574700.chunk.js.map",
+    "static/js/3.72a60aff.chunk.js": "/hex-transforma/static/js/3.72a60aff.chunk.js",
+    "static/js/3.72a60aff.chunk.js.map": "/hex-transforma/static/js/3.72a60aff.chunk.js.map",
+    "index.html": "/hex-transforma/index.html",
+    "static/css/main.cecc810a.chunk.css.map": "/hex-transforma/static/css/main.cecc810a.chunk.css.map",
+    "static/js/2.36574700.chunk.js.LICENSE.txt": "/hex-transforma/static/js/2.36574700.chunk.js.LICENSE.txt",
+    "static/media/profile-img.f3d19876.png": "/hex-transforma/static/media/profile-img.f3d19876.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62af61a.js",
+    "static/js/2.36574700.chunk.js",
+    "static/css/main.cecc810a.chunk.css",
+    "static/js/main.1cb6b214.chunk.js"
+  ]
+}
